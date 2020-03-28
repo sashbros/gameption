@@ -9,6 +9,8 @@ TagManager:
   - Enemy
   - Ground
   - obstacleEnd
+  - reach15
+  - reach30
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - PP
   - 
   - 
   - 
