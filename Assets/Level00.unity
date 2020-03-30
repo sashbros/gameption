@@ -1382,6 +1382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enableTouch: 1
+  speed: 100
 --- !u!61 &1251108992
 BoxCollider2D:
   m_ObjectHideFlags: 0
